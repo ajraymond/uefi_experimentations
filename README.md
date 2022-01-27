@@ -10,3 +10,9 @@ $ cd gnu-efi
 $ make
 
 
+References
+---------------------------
+https://wiki.osdev.org/GNU-EFI
+https://wiki.osdev.org/UEFI_App_Bare_Bones
+https://www.rodsbooks.com/efi-programming/index.html
+
